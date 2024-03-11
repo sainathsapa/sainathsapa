@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AtomAX<br>👯 I’m looking to collaborate on AI StartUp<br>🌱 I’m currently learning DeepTech<br>💬 Ask me about Software Development,  DevOps, Web3<br>⚡ Fun fact I don't what to say
+🔭 I’m currently working on AtomAX<br>👯 I’m looking to collaborate on AI StartUp<br>🌱 I’m currently learning DeepTech<br>💬 Ask me about Software Development,  DevOps, Web3<br>⚡ Fun fact I don't know what to say
 
 
 ## 🌐 Socials:
@@ -18,10 +18,3 @@
 ### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Today's Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=sainathsapa&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
